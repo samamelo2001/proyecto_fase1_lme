@@ -1,0 +1,13 @@
+body{
+    color: #ece6e6;
+    background-color: #1f1241;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+header{
+    background: rgb(47, 47, 47);
+    height: 100px;
+    width: 100%;
+    line-height: 100px;
+    text-align: center;
+}
